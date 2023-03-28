@@ -1,0 +1,6 @@
+###### Requirements without Version Specifiers ######
+locust
+pymongo
+faker
+dnspython
+pandas
